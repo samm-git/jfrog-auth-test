@@ -1,0 +1,1 @@
+# jfrog-auth-test
